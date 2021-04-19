@@ -137,6 +137,10 @@ b, strong {
   top: 0;
 }
 
+.produk_banner{
+  background-image: url("../i/Produk_Banner.jpg");
+  background-size: cover;
+}
 /* Change AOS plugin default settings */
 [data-aos=fade-down] {
   transform: translate3d(0, -35px, 0);
