@@ -136,10 +136,8 @@ b, strong {
 .alert-dismissable .close, .alert-dismissible .close {
   top: 0;
 }
-
-.produk_banner{
-  background-image: url("../i/Produk_Banner.jpg");
-  background-size: cover;
+.carouselExampleSlidesOnly{
+  width:100%;
 }
 /* Change AOS plugin default settings */
 [data-aos=fade-down] {
